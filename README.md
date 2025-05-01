@@ -4,6 +4,7 @@
 Food Ordering Bot — foydalanuvchilarga onlayn ovqat buyurtmalarini amalga oshirish imkonini beruvchi Telegram bot. Ushbu bot guruhlar uchun mo‘ljallangan bo‘lib, foydalanuvchilarga buyurtmalarni boshqarish va guruh ichida ovqat buyurtmalarini soddalashtirishga yordam beradi.
 
 📌 Asosiy xususiyatlar
+
 Buyurtma boshqaruvi: Foydalanuvchilar yangi buyurtmalarni boshlashlari, mavjud buyurtmalarni ko‘rishlari va ularni boshqarishlari mumkin.
 
 Buyurtmalarni ko‘rish: Mavjud buyurtmalarni ko‘rish va ularni boshqarish imkoniyati.
